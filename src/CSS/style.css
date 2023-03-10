@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  width: 100%;
+}
+.banner-puppy img {
+  width: 100%;
+}
+
+/* header */
+
+.Puppy-Lovers {
+  font-size: 40px;
+  background-color: #032546;
+  color: white;
+}
+
+.missing-part {
+  background-color: brown;
+}
+.missing-part p {
+  font-size: 25px;
+}
+
+@media (min-width: 992px) {
+  .missing-part p {
+    font-size: 46px;
+  }
+}
